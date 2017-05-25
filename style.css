@@ -41,8 +41,8 @@ h1 {
 }
 .name,
 .name input {
-  font-size: 48px;
-  text-shadow: 2px 2px 4px #5059fc;
+  font-size: 60px;
+  text-shadow: 2px 2px 10px #5059fc;
 }
 input {
   backgound-color: transparent;
